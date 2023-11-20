@@ -1,4 +1,4 @@
-const API_KEY = "37b72ba6349948959fea35aa73aedc58";
+const API_KEY = "your api key";
 
 let currentMonth = new Date().getMonth();
 let currentYear = new Date().getFullYear();
